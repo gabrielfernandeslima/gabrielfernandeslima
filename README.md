@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xgoRWar.jpg" width="100%">
+<img src="https://i.imgur.com/Paj5e5z.jpeg" width="100%">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielfernandeslima&show_icons=true&hide=issues&hide_rank=false&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfernandeslima&layout=compact&hide_border=true" />
 
