@@ -6,5 +6,5 @@
   You can find me on
   <a href="https://example.com"><img src="http://i.imgur.com/wWzX9uB.png" width="16px" /></a>
   or
-  <a href="https://example.com"><img src="http://i.imgur.com/wWzX9uB.png" width="16px" /></a>.
+  <a href="https://example.com"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" width="16px" /></a>.
 </p>
