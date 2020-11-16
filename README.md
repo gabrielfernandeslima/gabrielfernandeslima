@@ -29,6 +29,8 @@ With the arrival of the future that cryptocurrencies bring, I have experience wi
 
 ## Apps & DApps
 
+Decentralization is a path of no return, not counting the numerous advantages such as more security, greater difficulty for the system to be offline, privacy, transparency and many others. Today we have technologies that are moving in that direction, even with little contribution and I intend to contribute more, I feel very happy to be part of that future. Building, using, exploring software such as Beaker Web Browser, a p2p-based browser, the Hypercore protocol, the p2p transfer protocol, the Dat protocol that would be another hypermedia p2p protocol and many others. The creation of new decentralized applications is contributing to a more democratic Web and I am very grateful to be part of that.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielfernandeslima&show_icons=true&hide=issues&hide_rank=false&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfernandeslima&layout=compact&hide_border=true" />
 
 <p align=center>
