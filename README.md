@@ -19,9 +19,13 @@ It was my first language and the one I have a certain affection for. A simple an
 
 ## Payments
 
+Experience in the development of payment systems and integration with existing payment systems. I work with payment system integrations from financial institutions such as banks to fintechs or payment services that require subscription. I actively participate in the open source community for monetization on the web. I would say that this is my specialty.
+
 ## Blockchain
 
 ## Cryptocurrency
+
+With the arrival of the future that cryptocurrencies bring, I have experience with the development of payment systems using digital currencies. One of my most recent studies is about ways to invest in the digital world and in DeFi. With a large market on the rise, large companies are increasingly adopting payment systems through currencies and digital assets, as a Blockchain and digital currencies enthusiast, I believe that the hundred percent digital future is near.
 
 ## Apps & DApps
 
