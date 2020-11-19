@@ -3,7 +3,7 @@
 
 ## About me
 
-**Software developer** for over four years and for two years I have been studying the *financial market*, mainly **cryptocurrency**, focusing on building systems for *Fintechs* and working with *payment systems*, both proprietary and integrating with existing systems, accounting calculations and graphs of financial data in realtime, *Big Data* and process automation for *Forex* and *Traders*. Enthusiastic about **blockchain**, cryptocurrencies and passionate about the *open-source* universe. Evangelist of **dApps**, decentralized applications. *Linux* Fanboy.
+**Software developer** for over four years and for two years I have been studying the *financial market*, mainly **cryptocurrency**, focusing on building systems for *Fintechs* and working with *payment systems*, both proprietary and integrating with existing systems, accounting calculations and graphs of financial data in realtime, *Big Data* and process automation for *Forex* and *Traders*. Enthusiast with **blockchain**, **cryptocurrencies** and passionate about the *open-source* universe. Evangelist of **dApps**, decentralized applications. *Linux Fanboy*.
 
 ## Programing Languages
 
