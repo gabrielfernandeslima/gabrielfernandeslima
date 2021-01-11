@@ -3,7 +3,7 @@
 
 ## About me
 
-**Software developer** for over four years and for two years I have been studying the *financial market*, mainly **cryptocurrency**, focusing on building systems for *Fintechs* and working with *payment systems*, both proprietary and integrating with existing systems, accounting calculations and graphs of financial data in realtime, *Big Data* and process automation for *Forex* and *Traders*. Enthusiast with **blockchain**, **cryptocurrencies** and passionate about the *open-source* universe. Evangelist of **dApps**, decentralized applications. *Linux Fanboy*.
+*TODO*
 
 ## Programing Languages
 
@@ -29,12 +29,6 @@ Experience in the development of payment systems and integration with existing p
 
 As a Blockchain enthusiast, this is one of the technologies, after quantum computing, that I'm most fascinated by. From the block structure to the creation of smart contracts. One of my favorite hobbies is creating blockchains in several different programming languages. Currently I have been looking for new ways of implementation, where the blockchain can be shipped, such as guarantee systems, telephone records and others. Study and improvement of Blockchain systems two years ago, for me it will be the payment platform of the future.
 
-### Cryptocurrency
-
-With the arrival of the future that cryptocurrencies bring, I have experience with the development of payment systems using digital currencies. One of my most recent studies is about ways to invest in the digital world and in DeFi. With a large market on the rise, large companies are increasingly adopting payment systems through currencies and digital assets, as a Blockchain and digital currencies enthusiast, I believe that the hundred percent digital future is near.
-
 ### Apps & DApps
 
 Decentralization is a path of no return, not counting the numerous advantages such as more security, greater difficulty for the system to be offline, privacy, transparency and many others. Today we have technologies that are moving in that direction, even with little contribution and I intend to contribute more, I feel very happy to be part of that future. Building, using, exploring software such as Beaker Web Browser, a p2p-based browser, the Hypercore protocol, the p2p transfer protocol, the Dat protocol that would be another hypermedia p2p protocol and many others. The creation of new decentralized applications is contributing to a more democratic Web and I am very grateful to be part of that.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielfernandeslima&show_icons=true&hide=issues&hide_rank=false&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfernandeslima&layout=compact&hide_border=true" />
