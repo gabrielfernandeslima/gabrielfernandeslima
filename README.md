@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/or4deWA.png" width="100%">
+<img src="https://i.imgur.com/IkMmNMv_d.webp?maxwidth=760&fidelity=grand" width="100%">
 
 
 ## About me
