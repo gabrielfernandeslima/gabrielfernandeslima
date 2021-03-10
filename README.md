@@ -3,7 +3,7 @@
 
 ## About me
 
-<img src="https://i.pinimg.com/originals/f8/2d/10/f82d10a83d65ec61bc2cdfe805469603.gif">
+<img src="https://i.pinimg.com/originals/f8/2d/10/f82d10a83d65ec61bc2cdfe805469603.gif"> TODO
 
 ## Programing Languages
 
