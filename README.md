@@ -25,7 +25,6 @@ It was my first language and the one I have a certain affection for. A simple an
 - Elixir
 - Go
 - Java
-- Pyhton
 - Ruby
 - Solidity
 
