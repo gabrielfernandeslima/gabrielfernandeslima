@@ -18,6 +18,16 @@ Python's simplicity and robustness make this language an essential part of my wo
 ### Javascript
 
 It was my first language and the one I have a certain affection for. A simple and extremely complete language that is present at different levels of development, whether in the frontend, backend or mobile. Tools like Node and Deno, along with the powerful Typescript, provide rapid development of APIs and applications. For the creation of rich applications and rapid prototyping of mobile applications, without a doubt my choice is Javascript.
+<br />
+
+### Other programming languages
+- C/C++
+- Elixir
+- Go
+- Java
+- Pyhton
+- Ruby
+- Solidity
 
 ## Skills
 
